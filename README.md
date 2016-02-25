@@ -7,6 +7,8 @@ The selected localization system keeps track of each carâ€™s movement. Each carâ
 adjusted by the collision avoidance system, and it is done through sending control commands with
 regards to the cars location information obtained from the localization system.
 #Technical specs(codes)
-1)nesC code to program wireless sensors(MicaZ)
+1)nesC code to program wireless sensors(MicaZ).
 2)A Java code to control the miniature car movements according to car's location and speed.
+#Java Flow
+![alt tag](https://github.com/alireza1111/ExamensArbete/blob/master/Java.flow.pdf)
 
